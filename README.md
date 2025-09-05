@@ -1,4 +1,3 @@
-![logo]()
 <h1 align="center">Hi 👋, I'm Hemant Mohane</h1>
 <h3 align="center">AI & Data Science Student | Exploring Machine Learning & Real-World Applications</h3>
 <img align="right" alt="coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
