@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemant Mohane</h1>
-<h3 align="center">3rd Year Artificial intelligence & Data Science Student</h3>
+<h3 align="center">AI & Data Science Student | Exploring Machine Learning & Real-World Applications</h3>
 
 <img align="right" alt="coding" width="400" 
 src="https://miro.medium.com/v2/resize:fit:850/0*ygaHmPjQnVmEApdT.gif" />
